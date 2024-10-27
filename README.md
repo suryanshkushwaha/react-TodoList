@@ -45,8 +45,8 @@ Users can store their tasks in the browser's local storage, ensuring that they a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/suryanshkushwaha/react-todolist.git
-   cd react-todolist
+   git clone https://github.com/suryanshkushwaha/react-TodoList
+   cd react-TodoList
    ```
 
 2. **Install dependencies**
