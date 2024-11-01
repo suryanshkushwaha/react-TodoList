@@ -4,6 +4,8 @@ The Todo List Application is a web-based task management tool that enables users
 
 Users can store their tasks in the browser's local storage, ensuring that they are preserved across page refreshes. This application is perfect for enhancing productivity and keeping track of daily tasks.
 
+Live Demo: [https://react-todo-list-sk.vercel.app](https://react-todo-list-sk.vercel.app)
+
 ![Todo App Screenshot](/public/iTask-UI.png)
 
 ## 🚀 Features
